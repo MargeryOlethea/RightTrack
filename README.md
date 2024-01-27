@@ -47,8 +47,7 @@ Ready to ditch the receipts and take control of your finances? Try [RightTrack](
 RightTrack is powered by Google Cloud Platform, Cloudflare, and Vercel, ensuring a seamless user experience.
 
 ## Development Journey
-
-Conceived and developed in just four days during Hacktiv8, RightTrack is the result of my passion for efficient expense tracking. Despite the tight time frame, I thoroughly enjoyed the challenges and fulfillment brought by this project.
+Fueled by my passion for simplifying finances, I tackled the receipt chaos and built RightTrack in just 4 days! Despite the tight time frame, I thoroughly enjoyed the challenges and fulfillment brought by this project.
 
 ## Getting Started
 
