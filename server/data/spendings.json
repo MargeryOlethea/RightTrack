@@ -1,0 +1,1134 @@
+[
+  {
+    "name": "Makan siang",
+    "amount": 40000,
+    "date": "2023-12-15",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Ojek online",
+    "amount": 15000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Nonton bioskop",
+    "amount": 75000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Tagihan listrik",
+    "amount": 300000,
+    "date": "2023-11-28",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Baju baru",
+    "amount": 250000,
+    "description": "Diskon 50%",
+    "date": "2023-12-23",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Makan",
+    "amount": 40000,
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Transportasi",
+    "amount": 25000,
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Entertainment",
+    "amount": 30000,
+    "description": "Movie night",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Listrik",
+    "amount": 50000,
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Baju Baru",
+    "amount": 60000,
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Kesehatan",
+    "amount": 35000,
+    "description": "Medical checkup",
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Pendidikan",
+    "amount": 75000,
+    "description": "Textbooks",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah",
+    "amount": 20000,
+    "description": "Birthday gift",
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Tabungan",
+    "amount": 100000,
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Lainnya",
+    "amount": 45000,
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Siang",
+    "amount": 35000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Taksi",
+    "amount": 20000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Nonton Konser",
+    "amount": 50000,
+    "description": "Concert tickets",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Air",
+    "amount": 40000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Celana Jeans",
+    "amount": 55000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Asuransi Kesehatan",
+    "amount": 80000,
+    "description": "Health insurance",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Buku Pelajaran",
+    "amount": 30000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah Valentine",
+    "amount": 15000,
+    "description": "Valentine's Day gift"
+  },
+  {
+    "name": "Pulsa internet",
+    "amount": 50000,
+    "date": "2023-12-08",
+    "UserId": 1,
+    "CategoryId": 2
+  },
+  {
+    "name": "Makan malam",
+    "amount": 30000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 11
+  },
+  {
+    "name": "Konser musik",
+    "amount": 150000,
+    "date": "2023-11-15",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Tagihan internet",
+    "amount": 80000,
+    "date": "2023-12-20",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Sepatu olahraga",
+    "amount": 120000,
+    "description": "Promo akhir tahun",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Obat dan vitamin",
+    "amount": 40000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Kursus bahasa",
+    "amount": 70000,
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Ulang tahun teman",
+    "amount": 50000,
+    "description": "Kado bersama",
+    "date": "2023-12-05",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Tabungan rutin",
+    "amount": 100000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Perlengkapan kantor",
+    "amount": 30000,
+    "date": "2023-11-22",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Malam",
+    "amount": 120000,
+    "date": "2023-11-02",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Ojek",
+    "amount": 15000,
+    "date": "2023-11-05",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Konser",
+    "amount": 30000,
+    "description": "VIP tickets",
+    "date": "2023-11-08",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Air Bersih",
+    "amount": 45000,
+    "date": "2023-11-10",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Sepatu Sport",
+    "amount": 60000,
+    "date": "2023-11-15",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Vitamin",
+    "amount": 35000,
+    "description": "Health supplements",
+    "date": "2023-11-18",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Modul Kuliah",
+    "amount": 50000,
+    "description": "Online course materials",
+    "date": "2023-11-20",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah Ulang Tahun",
+    "amount": 20000,
+    "description": "Birthday gift",
+    "date": "2023-11-25",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Investasi Saham",
+    "amount": 180000,
+    "date": "2023-11-28",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Pulsa Handphone",
+    "amount": 15000,
+    "date": "2023-11-30",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Sore",
+    "amount": 35000,
+    "date": "2023-12-02",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Gojek",
+    "amount": 12000,
+    "date": "2023-12-05",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Teater",
+    "amount": 28000,
+    "description": "Live performance",
+    "date": "2023-12-08",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Listrik Bulan Ini",
+    "amount": 65000,
+    "date": "2023-12-10",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Jaket Baru",
+    "amount": 55000,
+    "date": "2023-12-15",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Obat Flu",
+    "amount": 18000,
+    "description": "Cold medicine",
+    "date": "2023-12-18",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Buku Referensi",
+    "amount": 25000,
+    "date": "2023-12-20",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah Natal",
+    "amount": 30000,
+    "description": "Christmas gift",
+    "date": "2023-12-25",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Investasi Emas",
+    "amount": 130000,
+    "date": "2023-12-28",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Internet Bulan Ini",
+    "amount": 22000,
+    "date": "2023-12-30",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Siang Kantor",
+    "amount": 30000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Grab",
+    "amount": 14000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Pertunjukan Seni",
+    "amount": 25000,
+    "description": "Art exhibition",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Air Panas",
+    "amount": 42000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Celana Pendek",
+    "amount": 58000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Suplemen Kalsium",
+    "amount": 32000,
+    "description": "Calcium supplements",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "E-book",
+    "amount": 15000,
+    "description": "Digital book",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah Anniversary",
+    "amount": 18000,
+    "description": "Anniversary gift",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Investasi Reksadana",
+    "amount": 160000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Pulsa Internet",
+    "amount": 12000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Malam Kantor",
+    "amount": 45000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Ride Scooter",
+    "amount": 18000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Concert VIP Pass",
+    "amount": 120000,
+    "description": "Front row seats",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Air Conditioning Repair",
+    "amount": 75000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Winter Jacket",
+    "amount": 90000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Prescription Medication",
+    "amount": 42000,
+    "description": "Monthly supply",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Online Course Subscription",
+    "amount": 60000,
+    "description": "Annual membership",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Valentine's Day Dinner",
+    "amount": 90000,
+    "description": "Fine dining",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 11
+  },
+  {
+    "name": "Savings Contribution",
+    "amount": 150000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Mobile Data Plan",
+    "amount": 25000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Malam Bersama Teman",
+    "amount": 48000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Online Taxi",
+    "amount": 15000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Art Exhibition Tickets",
+    "amount": 30000,
+    "description": "Modern art showcase",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Internet Bill",
+    "amount": 55000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Sport Shoes",
+    "amount": 75000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Multivitamins",
+    "amount": 38000,
+    "description": "Nutritional supplements",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Language Course Book",
+    "amount": 35000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Birthday Gift for Friend",
+    "amount": 18000,
+    "description": "Surprise gift",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Investment in Stocks",
+    "amount": 160000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Phone Credit",
+    "amount": 12000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Siang",
+    "amount": 15000,
+    "description": "Makan siang di restoran lokal",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Makan Malam KFC",
+    "amount": 20000,
+    "description": "Makan malam di KFC",
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 11
+  },
+  {
+    "name": "Sepatu Baru",
+    "amount": 50000,
+    "description": "Membeli sepasang sepatu baru",
+    "date": "2023-11-20",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Liburan",
+    "amount": 100000,
+    "description": "Liburan akhir pekan ke resor pantai",
+    "date": "2023-11-01",
+    "UserId": 2,
+    "CategoryId": 3
+  },
+  {
+    "name": "Transportasi",
+    "amount": 20000,
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 2
+  },
+  {
+    "name": "Tagihan",
+    "amount": 30000,
+    "description": "Membayar tagihan listrik",
+    "date": "2023-12-05",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Pakaian",
+    "amount": 40000,
+    "description": "Membeli pakaian baru",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Kesehatan",
+    "amount": 25000,
+    "description": "Pemeriksaan kesehatan",
+    "date": "2023-11-08",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Pendidikan",
+    "amount": 50000,
+    "description": "Mendaftar kursus pemrograman",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah",
+    "amount": 15000,
+    "description": "Membeli hadiah untuk teman",
+    "date": "2023-12-14",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Tabungan",
+    "amount": 50000,
+    "description": "Menabung di rekening bank",
+    "date": "2023-11-01",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Makan Siang Bersama Klien",
+    "amount": 35000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "name": "Jasa Ojek Online",
+    "amount": 15000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Tiket Premiere Film",
+    "amount": 50000,
+    "description": "Acara karpet merah",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Tagihan Internet Bulanan",
+    "amount": 58000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Gaya Busana Musim Panas",
+    "amount": 120000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Suplemen Kesehatan",
+    "amount": 45000,
+    "description": "Vitamin dan mineral",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Biaya Workshop Online",
+    "amount": 70000,
+    "description": "Pengembangan profesional",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah untuk Saudara",
+    "amount": 25000,
+    "description": "Hadiah wisuda",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Investasi Tambahan",
+    "amount": 130000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Isi Ulang Pulsa Handphone",
+    "amount": 12000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Malam di Kafe Baru",
+    "amount": 40000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Layanan Transportasi Bersama",
+    "amount": 18000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Tiket Backstage Konser",
+    "amount": 150000,
+    "description": "Bertemu dan sapa",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Tagihan Utilitas Apartemen",
+    "amount": 90000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Sale Pakaian Musim Panas",
+    "amount": 75000,
+    "description": "Diskon besar",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Isi Ulang Obat dengan Resep",
+    "amount": 35000,
+    "description": "Kunjungan ke apotek",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Upgrade Kursus Online",
+    "amount": 90000,
+    "description": "Modul lanjutan",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Hadiah Kejutan untuk Teman",
+    "amount": 18000,
+    "description": "Kejutan perayaan",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Kontribusi Tabungan Pensiun",
+    "amount": 200000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Perpanjangan Paket Data",
+    "amount": 22000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+  {
+    "name": "Makan Malam Bersama Keluarga",
+    "amount": 55000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 11
+  },
+  {
+    "name": "Biaya Bus Kota",
+    "amount": 12000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "name": "Tiket Pertunjukan Teater",
+    "amount": 32000,
+    "description": "Pertunjukan klasik",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 3
+  },
+  {
+    "name": "Langganan Internet Bulanan",
+    "amount": 60000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 4
+  },
+  {
+    "name": "Belanja Perlengkapan Sekolah",
+    "amount": 180000,
+    "description": "Peralatan sekolah",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 5
+  },
+  {
+    "name": "Penggantian Lensa Kontak",
+    "amount": 45000,
+    "description": "Koreksi penglihatan",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 6
+  },
+  {
+    "name": "Kursus Pengembangan Profesional",
+    "amount": 80000,
+    "description": "Insight industri",
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 7
+  },
+  {
+    "name": "Rayakan Ulang Tahun",
+    "amount": 150000,
+    "description": "Makan malam spesial",
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 8
+  },
+  {
+    "name": "Kontribusi Tabungan Tambahan",
+    "amount": 100000,
+    "date": "2023-12-31",
+    "UserId": 1,
+    "CategoryId": 9
+  },
+  {
+    "name": "Pembaharuan Langganan Internet Mobile",
+    "amount": 22000,
+    "date": "2023-12-31",
+    "UserId": 2,
+    "CategoryId": 10
+  },
+    {
+      "name": "Belanja Online",
+      "amount": 120000,
+      "date": "2024-01-01",
+      "UserId": 1,
+      "CategoryId": 1
+    },
+    {
+      "name": "Transportasi Umum",
+      "amount": 25000,
+      "date": "2024-01-02",
+      "UserId": 2,
+      "CategoryId": 2
+    },
+    {
+      "name": "Nonton Film",
+      "amount": 50000,
+      "description": "Bioskop",
+      "date": "2024-01-03",
+      "UserId": 1,
+      "CategoryId": 3
+    },
+    {
+      "name": "Tagihan Air",
+      "amount": 75000,
+      "date": "2024-01-04",
+      "UserId": 2,
+      "CategoryId": 4
+    },
+    {
+      "name": "Baju Trendy",
+      "amount": 80000,
+      "description": "Promo diskon",
+      "date": "2024-01-05",
+      "UserId": 1,
+      "CategoryId": 5
+    },
+    {
+      "name": "Suplemen Vitamin",
+      "amount": 30000,
+      "description": "Kesehatan",
+      "date": "2024-01-06",
+      "UserId": 2,
+      "CategoryId": 6
+    },
+    {
+      "name": "Kursus Bahasa",
+      "amount": 100000,
+      "description": "Online",
+      "date": "2024-01-07",
+      "UserId": 1,
+      "CategoryId": 7
+    },
+    {
+      "name": "Hadiah Ultah",
+      "amount": 40000,
+      "description": "Untuk Teman",
+      "date": "2024-01-08",
+      "UserId": 2,
+      "CategoryId": 8
+    },
+    {
+      "name": "Tabungan Investasi",
+      "amount": 150000,
+      "date": "2024-01-09",
+      "UserId": 1,
+      "CategoryId": 9
+    },
+    {
+      "name": "Pembelian Lainnya",
+      "amount": 35000,
+      "date": "2024-01-10",
+      "UserId": 2,
+      "CategoryId": 10
+    },
+    {
+      "name": "Makan Siang",
+      "amount": 25000,
+      "date": "2024-01-11",
+      "UserId": 1,
+      "CategoryId": 11
+    },
+    {
+      "name": "Tas Branded",
+      "amount": 180000,
+      "date": "2024-01-12",
+      "UserId": 2,
+      "CategoryId": 1
+    },
+    {
+      "name": "Ojek Online",
+      "amount": 20000,
+      "date": "2024-01-13",
+      "UserId": 1,
+      "CategoryId": 2
+    },
+    {
+      "name": "Konser Musik",
+      "amount": 120000,
+      "description": "VIP",
+      "date": "2024-01-14",
+      "UserId": 2,
+      "CategoryId": 3
+    },
+    {
+      "name": "Tagihan Listrik",
+      "amount": 85000,
+      "date": "2024-01-15",
+      "UserId": 1,
+      "CategoryId": 4
+    },
+    {
+      "name": "Jaket Musim Dingin",
+      "amount": 95000,
+      "date": "2024-01-16",
+      "UserId": 2,
+      "CategoryId": 5
+    },
+    {
+      "name": "Obat Flu",
+      "amount": 30000,
+      "description": "Apotek",
+      "date": "2024-01-17",
+      "UserId": 1,
+      "CategoryId": 6
+    },
+    {
+      "name": "Buku Pelajaran",
+      "amount": 55000,
+      "date": "2024-01-18",
+      "UserId": 2,
+      "CategoryId": 7
+    },
+    {
+      "name": "Hadiah Anniversary",
+      "amount": 25000,
+      "description": "Kado Spesial",
+      "date": "2024-01-19",
+      "UserId": 1,
+      "CategoryId": 8
+    },
+    {
+      "name": "Tabungan Rutin",
+      "amount": 120000,
+      "date": "2024-01-20",
+      "UserId": 2,
+      "CategoryId": 9
+    },
+    {
+      "name": "Pembelian Barang Unik",
+      "amount": 45000,
+      "description": "Online Shop",
+      "date": "2024-01-21",
+      "UserId": 1,
+      "CategoryId": 10
+    },
+    {
+      "name": "Makan Malam Bersama Teman",
+      "amount": 48000,
+      "date": "2024-01-22",
+      "UserId": 2,
+      "CategoryId": 11
+    },
+    {
+      "name": "Sepatu Olahraga",
+      "amount": 150000,
+      "date": "2024-01-23",
+      "UserId": 1,
+      "CategoryId": 1
+    },
+    {
+      "name": "Transportasi Grab",
+      "amount": 14000,
+      "date": "2024-01-24",
+      "UserId": 2,
+      "CategoryId": 2
+    },
+    {
+      "name": "Pertunjukan Seni",
+      "amount": 25000,
+      "description": "Teater",
+      "date": "2024-01-25",
+      "UserId": 1,
+      "CategoryId": 3
+    },
+    {
+      "name": "Pembayaran Internet",
+      "amount": 50000,
+      "date": "2024-01-26",
+      "UserId": 2,
+      "CategoryId": 4
+    },
+    {
+      "name": "Celana Jeans",
+      "amount": 75000,
+      "date": "2024-01-27",
+      "UserId": 1,
+      "CategoryId": 5
+    },
+    {
+      "name": "Suplemen Kalsium",
+      "amount": 32000,
+      "description": "Kesehatan",
+      "date": "2024-01-28",
+      "UserId": 2,
+      "CategoryId": 6
+    },
+    {
+      "name": "Buku Elektronik",
+      "amount": 45000,
+      "description": "Online Store",
+      "date": "2024-01-29",
+      "UserId": 1,
+      "CategoryId": 7
+    }  
+]
