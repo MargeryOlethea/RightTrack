@@ -29,7 +29,7 @@ Requirements:
 - Node.js 20+
 - PostgreSQL
 - Cloudinary and Mindee credentials for receipt scanning
-- A Google OAuth client ID for Google sign-in
+- A Google OAuth client ID for Google sign-in (set your own for local Google sign-in; the hosted demo's ID is the fallback)
 
 ### API
 
@@ -78,4 +78,4 @@ The server also contains Jest and Supertest integration tests. They require the 
 
 ## Project status
 
-RightTrack was built as a four-day portfolio project. It demonstrates an end-to-end product flow rather than production financial advice or accounting software.
+I built RightTrack on my own in four days, client and server. It demonstrates an end-to-end product flow; it is not financial advice or accounting software.

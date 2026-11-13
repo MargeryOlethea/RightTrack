@@ -39,11 +39,11 @@ const HomePage = () => {
 
   useEffect(() => {
     dispatch(fetchGoalThunk());
-  }, []);
+  }, [dispatch]);
 
   useEffect(() => {
     dispatch(fetchSummaryThunk({ date }));
-  }, [date]);
+  }, [date, dispatch]);
 
   function handleMonthFilter(e) {
     setDate(e.target.value);
