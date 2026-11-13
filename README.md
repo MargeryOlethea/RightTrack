@@ -1,62 +1,81 @@
-# RightTrack: Track your money right using RightTrack
+# RightTrack
 
-Tired of drowning in receipts and wondering where your paycheck went? Introducing RightTrack, your friendly financial copilot!
+A mobile-responsive personal finance dashboard that turns receipt photos into spending records and helps users track budgets over time.
 
-Ready to ditch the receipts and take control of your finances? Try [RightTrack](https://righttrack.vercel.app) now! Snap your first receipt and watch the magic happen. ✨
+**Live demo:** [righttrack.vercel.app](https://righttrack.vercel.app)
 
-## Take control of your money effortlessly:
+## Features
 
-- **Google Login:** Seamlessly sign in using your Google account for added convenience and security.
-- **Track Your Spending in a Snap:** Ditch the paper! Upload a receipt photo and watch RightTrack add it to your spending log. (Seriously, magic!) 🪄
-- **Set & Smash Your Budget Goals:** Set realistic budget goals and see your savings grow steadily.
-- **Stay on Top of Your Game:** Get real-time updates on your progress and see how close you are to your goals. Every penny counts!
-- **Manage Your Money Like a Pro:** Create, edit, and delete spending entries with ease. No more spreadsheet nightmares!
-- **Flashback in Time:** Review your spending history for the past 3 months and learn from your past. Knowledge is power!
-- **Mobile Responsive:** No more desktop struggles. Snap receipts, set goals, and track progress – all from your phone with RightTrack's mobile app.
+- Email/password and Google sign-in
+- Receipt upload and extraction through Mindee
+- Spending creation, editing, deletion, filtering, and summaries
+- Budget goals with progress visualisations
+- Three-month spending history
+- Responsive React interface
 
-## Built with
+## Architecture
 
-### Backend:
+RightTrack is split into two applications:
 
-- Node.js
-- Express.js
-- PostgreSQL & Sequelize ORM
+- `client/`: React, Vite, Redux Toolkit, React Router, Recharts, and Tailwind CSS
+- `server/`: Express, PostgreSQL, Sequelize, JWT authentication, Cloudinary, and Mindee
 
-### Frontend:
+The receipt flow uploads an image to the API, stores it through Cloudinary, sends the stored image to Mindee for extraction, and lets the user review the resulting spending data. Receipt images therefore leave the local device and are processed by third-party services.
 
-- React.js
-- React Router
-- Axios
+## Run locally
 
-### Third-party Integration:
+Requirements:
 
-- Mindee: Utilized for receipt scanning
-- Cloudinary: For receipt image storage
-- Google OAuth: For secure and convenient user authentication
+- Node.js 20+
+- PostgreSQL
+- Cloudinary and Mindee credentials for receipt scanning
+- A Google OAuth client ID for Google sign-in
 
-### Security:
+### API
 
-- Bcrypt.js & Jsonwebtoken
+```sh
+cd server
+cp env_template.txt .env
+npm ci
+npx sequelize-cli db:create
+npx sequelize-cli db:migrate
+npm start
+```
 
-### Styling:
+The development database defaults are documented in `server/config/config.json`. For production, set `DATABASE_URL`.
 
-- Tailwind CSS & SweetAlert2
+### Web client
 
-## Deployment
+```sh
+cd client
+cp .env.example .env.local
+npm ci
+npm run dev
+```
 
-RightTrack is powered by Google Cloud Platform, Cloudflare, and Vercel, ensuring a seamless user experience.
+Open [http://localhost:5173](http://localhost:5173).
 
-## Development Journey
-Fueled by my passion for simplifying finances, I tackled the receipt chaos and built RightTrack in just 4 days! Despite the tight time frame, I thoroughly enjoyed the challenges and fulfillment brought by this project.
+## Environment variables
 
-## Getting Started
+Client:
 
-Ready to explore or contribute to RightTrack? Follow these steps:
+```dotenv
+VITE_API_URL=http://localhost:3000
+VITE_GOOGLE_CLIENT_ID=your_google_oauth_client_id
+```
 
-1. Fork/clone this repository.
-2. Navigate to the server or client directory.
-3. Install dependencies: `npm install`.
-4. Set up your environment variables.
-5. Start the server: `npm start` in the server directory or `npm run dev` in the client directory.
+Server variables are listed in `server/env_template.txt`. Never commit real credentials or production connection strings.
 
-Spread the word! Share RightTrack with your friends and family and empower them to take control of their finances too! 🚀
+## Quality checks
+
+```sh
+cd client
+npm run lint
+npm run build
+```
+
+The server also contains Jest and Supertest integration tests. They require the PostgreSQL test database to be created and migrated before running `npm test`.
+
+## Project status
+
+RightTrack was built as a four-day portfolio project. It demonstrates an end-to-end product flow rather than production financial advice or accounting software.

@@ -1,8 +1,8 @@
-PORT = 
-JWT_SECRETKEY =
-CLOUDINARY_CLOUD_NAME =
-CLOUDINARY_API_KEY =
-CLOUDINARY_API_SECRET =
-MINDEE_API_KEY =
-GOOGLE_CLIENT_ID = 
-GOOGLE_CLIENT_SECRET = 
+PORT=3000
+DATABASE_URL=postgres://postgres:postgres@localhost:5432/righttrack_development
+JWT_SECRETKEY=replace_with_a_long_random_value
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+MINDEE_API_KEY=your_mindee_api_key
+GOOGLE_CLIENT_ID=your_google_oauth_client_id
