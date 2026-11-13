@@ -38,7 +38,7 @@ const GoalForm = ({ handleSubmit, goal }) => {
   function inputData(field, e) {
     let value = e.target.value;
 
-    setGoalData({ ...goalData, [field]: +value ?? 0 });
+    setGoalData({ ...goalData, [field]: +value || 0 });
   }
 
   console.log(goalData);
