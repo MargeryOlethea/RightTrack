@@ -2,8 +2,6 @@
 
 A mobile-responsive personal finance dashboard that turns receipt photos into spending records and helps users track budgets over time.
 
-**Live demo:** [righttrack.vercel.app](https://righttrack.vercel.app)
-
 ## Features
 
 - Email/password and Google sign-in
